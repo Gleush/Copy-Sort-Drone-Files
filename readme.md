@@ -1,4 +1,4 @@
-# Copy & Sort Done Files
+# Copy & Sort Drone Files
 
 Ce script Python copie automatiquement TOUS vos fichiers vidéo et photo depuis le dossier DCIM d’Android (carte SD de votre drone) vers le dossier où se trouve le script, en les organisant dans des dossier par date.  
 Utile pour vider rapidement un drone tout en gardant tout les fichiers média en une simple commande.

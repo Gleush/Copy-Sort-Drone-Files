@@ -22,7 +22,7 @@ def confirm_action(src, dst):
     print(f"  - Dossier d'origine : {src}")
     print(f"  - Dossier de destination : {dst}")
     print("  - Tous les fichiers vidéo et photo nommés DJI_YYYYMMDDhhmmss_... seront copiés (hors .SRT, .LRF), organisés par date du nom.")
-    choice = input("Confirmez-vous cette opération ? [o/N] ").strip().lower()
+    choice = input("Confirmez-vous cette opération ? [o/n] ").strip().lower()
     return choice == 'o'
 
 def find_files(src):
